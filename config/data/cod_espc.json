@@ -1,0 +1,50 @@
+[
+  {
+    "cod": "P",
+    "name": "Profesional"
+  },
+  {
+    "cod": "MI",
+    "name": "Medicina Interna"
+  },
+  {
+    "cod": "MG",
+    "name": "Medicina General"
+  },
+  {
+    "cod": "Ps",
+    "name": "Psiquiatría"
+  },
+  {
+    "cod": "TF",
+    "name": "Terapia Familiar"
+  },
+  {
+    "cod": "Ge",
+    "name": "Geriatría"
+  },
+  {
+    "cod": "Ne",
+    "name": "Neurología"
+  },
+  {
+    "cod": "Nps",
+    "name": "Neuropsiquiatría"
+  },
+  {
+    "cod": "PGe",
+    "name": "Psico geriatría"
+  },
+  {
+    "cod": "POn",
+    "name": "Psico oncología"
+  },
+  {
+    "cod": "MF",
+    "name": "Medicina familiar"
+  },
+  {
+    "cod": "Gt",
+    "name": "Gerontología"
+  }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "cod":"HSJD",
+        "name":"Hospital San Juan de Dios"
+    },
+    {
+        "cod":"IP",
+        "name":"Institución Privada"
+    },
+    {
+        "cod":"HIESS",
+        "name":"Hospital del IESS"
+    },
+    {
+        "cod":"HCAM",
+        "name":"Hospital Carlos Andrade Marin"
+    },
+    {
+        "cod":"IE",
+        "name":"Institución Pública"
+    },
+    {
+        "cod":"HC",
+        "name":"Hospital de Calderón"
+    },
+    {
+        "cod":"HIAM",
+        "name":"Hospital Integral del Adulto Mayor"
+    },
+    {
+        "cod":"HM",
+        "name":"Hospital metropolitano"
+    },
+    {
+        "cod":"HP",
+        "name":"Hospital de la Policía"
+    },
+    {
+        "cod":"HJE",
+        "name":"Hospital Julio Endara"
+    }
+    
+]
+
+

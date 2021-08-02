@@ -1,0 +1,67 @@
+[
+    {
+        "name": "MODELO BIO MEDICO",
+        "data": [
+            "SINDROME",
+            "PERDIDA FUNCIONES COGNITIVAS",
+            "ALTERACIONES BIOMARCADORES",
+            "ENFERMEDAD NEURODEGENERATIVA",
+            "ENTIDAD CLINICA BIOLOGICA",
+            "ENFERMEDAD NEUROLOGICA",
+            "TRASTORNO NEURODEGENERATIVO IRREVERSIBLE",
+            "CONDICION CLINICA",
+            "AFECTACION DEL CEREBRO",
+            "DETERIORO COGNITIVO SIGNIFICATIVO ",
+            "PATOLOGIA FRONTO-PARIETAL DEL CEREBRO",
+            "DEPOSITO ANORMAL PROTEINAS",
+            "ENFERMEDAD DEL SISTEMA NERVIOSO",
+            "ALTERACIÓN DE LA FUNCIONALIDAD",
+            "PERDIDA MEMORIA",
+            "DETERIORO LABORAL",
+            "DIFICULTAD EN CONTROL EMOCIONAL",
+            "AFECTACIÓN PERCEPTIVO MOTRIZ",
+            "PERDIDAS DE LA ACTIVIDAD DE LA VIDA DIARIA",
+            "ALTERACIONES CONDUCTUALES",
+            "ALTERACIONES PSICOLOGICAS",
+            "DETERIORO GLOBAL PERSISTENTE",
+            "DIFICULTAD PARA RESOLVER PROBLEMAS",
+            "DETERIORO COGNITIVO ADQUIRIDO"
+        ]
+    },
+    {
+        "name": "ENFOQUE PSICOSOCIAL - COMUNITARIO",
+        "data": [
+            "Patología multicausal",
+            "Patología multidimensional",
+            "Problema de salud pública",
+            "Una epidemia",
+            "Enfermedad del siglo",
+            "Problema social",
+            "problema sanitario",
+            "problema econòmico",
+            "problema legal",
+            "afecta entorno familiar",
+            "afectaciòn del cuidador",
+            "Problema sociosanitario",
+            "Problema contextualizado",
+            "Pèrdida de autonomìa"
+        ]
+    },
+    {
+        "name": "ENFOQUE COTIDIANO",
+        "data": [
+            "Locura",
+            "Vejez",
+            "Pérdida del juicio",
+            "Enfermedad crónica",
+            "Senilidad",
+            "Enfermedad irreversible",
+            "Demente",
+            "Sufrimiento",
+            "Dependencia",
+            "Enfermedad devastadora",
+            "Enfermedad psiquiátrica",
+            "Enfermedad compleja"
+        ]
+    }
+]

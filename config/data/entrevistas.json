@@ -1,0 +1,169 @@
+[
+    {
+        "num":"1",
+        "profession": "PMI",
+        "institution": "HSJD",
+        "answer":"Primeramente, hay que respetar el principio de autonomía del paciente, la salud es de la persona no de la familia. Hay pacientes que dicen dígamelo a mí no se lo diga a la familia y eso hay que respetarlo o hay otros que dicen a mí no me diga nada hable con mi esposa, eso hay que respetarlo. "
+    },
+    {
+        "num":"2",
+        "profession": "PMG",
+        "institution": "IP",
+        "answer":"Un diagnostico se informa al familiar y posteriormente al paciente para que entiendan de lo que trata la enfermedad que posee"
+    },
+    {
+        "num":"3",
+        "profession": "PPs",
+        "institution": "IESS",
+        "answer":"Al pariente cercano al hijo mayormente al esposo o al familiar que está acompañándole"
+    },
+    {
+        "num":"4",
+        "profession": "PPsTF",
+        "institution": "IP",
+        "answer":"claro cuando está mucho más avanzado, es la familia la que tiene entender lo que está pasando, porque como en varias patologías de la psiquiatría digámoslo así, si es que ese es el enfoque que queremos ver, el diagnóstico tiene una utilidad tanto… como terapéuticamente mínima, es decir yo no creo que a nadie le sirva que tiene esquizofrenia para algo"
+    },
+    {
+        "num":"5",
+        "profession": "PGe",
+        "institution": "IP",
+        "answer":"Yo, generalmente primero a la familia, después de realizarle la entrevista al paciente para estar seguro de lo que voy a decir, luego de la entrevista yo realizo los test, las radiografías, en este caso la resonancia magnética y la tomografía ya se puede plantear el diagnóstico. "
+    },
+    {
+        "num":"6",
+        "profession": "PNeNps",
+        "institution": "HCAM",
+        "answer":"En otras ocasiones son los hijos los que les traen y dicen no mi mamá tiene un terrible miedo al Alzheimer; incluso los mismos familiares me proponen no les diga nada, esperemos un ratito. En ese caso, se maneja de una forma distinta, en ese caso no se les dice directamente tiene Alzheimer,"
+    },
+    {
+        "num":"7",
+        "profession": "PPsPGePOn",
+        "institution": "IP y IE",
+        "answer":"Como vuelvo a repetir la psico-geriatría o geronto-psiquiatría es el puente de unión entre la parte mental y la parte neurológica; o la parte clínica, la geriatría, y la parte neurológica porque nosotros valoramos comportamiento. "
+    },
+    {
+        "num":"8",
+        "profession": "PNe",
+        "institution": "HC",
+        "answer":"trato de introducirles gradualmente, indicando que a la persona le está fallando algunas funciones mentales, que no solamente es a memoria está fallando, sino que también le está fallando otras funciones mentales, como la capacidad de juicio, la capacidad mental para planificar, para organizar, para solucionar problemas, que le está fallando el lenguaje, que aparte de eso también están afectadas otras funciones"
+    },
+    {
+        "num":"9",
+        "profession": "PGe",
+        "institution": "HIAM",
+        "answer":"se les va a explicar en qué consiste, si ya voy avanzando un poquito más les trato si es posible de dibujar en que zona del cerebro está tomado y porqué del comportamiento de la persona es así"
+    },
+    {
+        "num":"10",
+        "profession": "PMF",
+        "institution": "HIAM",
+        "answer":"uno tiene que empezar por lo que sabe el paciente, si es que esta en condición de ser el paciente el que va a ser el receptor y lo que sabe la familia, es importante ese punto de partida, porque muchas veces los pacientes no saben el nombre de la enfermedad, pero intuyen que algo está pasando, entonces ir recabando toda la información que ellos ya tienen desde su experiencia familiar y su experiencia personal, ir llevándole hacia el diagnóstico, ser claros en el diagnóstico, porque es importante saber, no es fácil el saber qué tipo de demencia es"
+    },
+    {
+        "num":"11",
+        "profession": "PGe",
+        "institution": "HIAM",
+        "answer":"Explico que cuando se le hace todos estos exámenes es porque hay una probabilidad de que haya una alteración cognitiva y que es necesario hacerlo, explicándoles las consecuencias, como puede ir avanzando, porque no se va a detener, pero va avanzar, pero podemos mantenerlo por un nivel, entonces hay que explicar ese tipo de secuencia que va a seguir la enfermedad"
+    },
+    {
+        "num":"13",
+        "profession": "PGe",
+        "institution": "HIAM",
+        "answer":"Lo hago después de tener una certeza. Cuando el paciente viene la primera vez con una sospechan de deterioro cognitivo, hago un análisis clínico, con una historia clínica, hago un test neuropsicológico simple. Solicito exámenes de laboratorio, un examen de neuroimagen; y sí con esos resultados, sí que les doy el diagnóstico"
+    },
+    {
+        "num":"14",
+        "profession": "PGe",
+        "institution": "IP",
+        "answer":"Lo importante ahí es decirle a ver, usted si es que le estamos diciendo a alguien al inicio de la enfermedad, usted tiene prácticamente entre 10 a 15 años más de vida. Solucione sus cosas, haga las cosas tranquilo ahorita, antes también tome unas decisiones finales bien claritas para que todo el mundo sepa lo que usted quiere, después. Porque después usted ya no se va a dar cuenta tomar esas decisiones. No es cuestión de ponerse a llorar tras el chilco, sino esto es lo que me tocó, las enfermedades son, nadie escoge el diagnóstico y hay que entender eso."
+    },
+    {
+        "num":"15",
+        "profession": "PMF",
+        "institution": "HIAM",
+        "answer":"De una forma muy sencilla de manera que las personas entiendan acerca de la enfermedad"
+    },
+    {
+        "num":"16",
+        "profession": "PNe",
+        "institution": "HIAM",
+        "answer":"Vamos haciendo una introducción, que prácticamente hemos visto ya la evaluación del neuropsicólogo, ya hemos visto la evaluación de la psiquiatra y la muestra, entonces ahí por lo menos ya enunciamos y dejamos ver inicialmente el diagnóstico a los familiares, y de ahí le enviamos a estos otros especialistas, que también ayudan"
+    },
+    {
+        "num":"17",
+        "profession": "PGe",
+        "institution": "HIAM",
+        "answer":"Se le trata de explicar que es un problema de cognición y que se va a trabajar para estimular y fortalecer la parte de la memoria, si se les comenta el diagnóstico de la enfermedad, generalmente se habla mucho con la familia, depende del grado estadiaje de la enfermedad para saber cómo se aborda, pero siempre se trata de meter al paciente "
+    },
+    {
+        "num":"18",
+        "profession": "PGeGt",
+        "institution": "HIAM",
+        "answer":"Bueno que es un proceso fisiológico, secuela de todo lo que ha trabajado el paciente, de todo lo que ha sido, de todo lo que ha sufrido, de todos los maltratos que ha tenido."
+    },
+    {
+        "num":"19",
+        "profession": "PPs",
+        "institution": "HIAM",
+        "answer":" De alguna manera yo les proporciono una información un poquito más global de lo que puede suceder. Pero obviamente informándoles que siempre van a tener el respaldo, el apoyo de esta institución y de nosotros como profesionales y que las medidas que nosotros adoptamos es para mejorar la calidad de vida de este paciente y de ellos. "
+    },
+    {
+        "num":"20",
+        "profession": "PGt",
+        "institution": "HIESS",
+        "answer":"Generalmente, hay que preguntarle al paciente si es que desea estar con el familiar o no al momento en que analicemos el caso, se le cuenta que todos los exámenes orgánicos y todo nos han revelado que en este caso, le comienzas a contar todo lo que implicaría y como va a ir cambiando, porque tiene que saber que tiene que esperar. "
+    },
+    {
+        "num":"21",
+        "profession": "PPs",
+        "institution": "HSJD",
+        "answer":"Casi siempre lo confirmo con la resonancia en la mano, en algunos pocos casos no tenemos acceso a una imagen y en ese caso me apoyo en los síntomas clínicos, yo suelo usar la explicación con mis pacientes con mis familiares de que el cerebro realmente es la torre de control de todo, ahí están nuestras emociones, decisiones, pensamientos, recuerdos, personalidad, todo y si nuestro cerebro se daña o se deteriora por supuesto, todas nuestras funciones mentales también se van a dañar y el cerebro de un adulto mayor ya por la edad puede tener un tipo de deterioro pero este es un deterioro que no necesariamente es una enfermedad, sin embargo cuando ese deterioro tiene algunas características, como la acumulación de la proteína metameloide o cuando tenemos daño vascular en la corteza y en la subcorteza ahí si se dañan funciones mentales que son irrecuperables, trato de mostrarles en la imagen, verán aquí esta descrito, esta parte del cerebro no está funcionando igual, les pongo algunas analogías y tratando de simplificar las cosas les digo que la proteína se acumula en algunas partes y que hacen que el tejido se vuelva calloso y que por lo tanto ya no funciona como funcionaba cuando éramos jóvenes, trato de explicarles que ya no hay una forma de recuperar lo que ya está perdido, pero que la medicación lo que intenta es retrasar el avance de la enfermedad, reducir la velocidad con la que avanza y que con los medicamentos psiquiátricos logramos controlar algunos síntomas conductuales, porque esos son los más eruptivos, cualquiera puede manejar un viejito que se olvida, pero un abuelito bravo, que no come, que no duerme, que es agresivo, que les muerde, ese es el paciente que me llega a mí, entonces ahí es donde tenemos que enfocarnos."
+    },
+    {
+        "num":"22",
+        "profession": "PNe",
+        "institution": "HM",
+        "answer":"Lo más certero posible, tienes que ser muy directo para que te entiendan porque es lo que está pasando con el paciente que es la gran demanda que es la pregunta que me hacías. La gran demanda qué está pasando con mi hermano, con mi papá, con mi mamá, que está pasando. Tú tienes que responderles y luego la conducta que vas a seguir, si le aconsejas que tiene que ir a un centro de memoria, si tiene que ir a un sitio donde cuidan a este tipo de pacientes, si necesita un cuidador, si necesita actividad física diaria tienes que explicarle el por qué. Y el por qué parte del diagnóstico."
+    },
+    {
+        "num":"23",
+        "profession": "PNe",
+        "institution": "IP",
+        "answer":"yo les cuento es que el paciente no tiene problema con el diagnóstico porque si padece una demencia todo lo que digo se va a olvidar en un ratito, no pasa nada. Además, el paciente con demencia, es un paciente que no sufre."
+    },
+    {
+        "num":"24",
+        "profession": "PGe",
+        "institution": "HP",
+        "answer":"Yo les informo indicándoles, haciéndoles ver lo que tiene el paciente, ósea la parte clínica, signos y sus síntomas, les informo a los familiares, a sus hijos que vienen, miren tiene este problema, su memoria ya no está reteniendo lo que es el aprendizaje reciente, hay cambios en su conducta, no quiere bañarse, está aislado, esta agresivo, todo esto los comparo en ese momento en la entrevista con la demencia les indico que es la demencia, que conlleva, que síntomas tiene para que ellos puedan entender y quede claro, porque, algunos familiares piensan que tiene cura, por ejemplo dicen y ¿doctora se va a curar? Entonces uno tiene que ser muy claro y muy directo, no podemos decir veamos si se cura o no se cura, no, yo no le voy a curar la demencia, yo le voy ayudar a controlar los síntomas de la demencia para que tenga una mejor calidad de vida entonces de esa manera se les informa ya una vez obtenido toda la batería de apoyo diagnóstico, resonancias, tomografías, los test neuropsicológicos y examen de laboratorio, vamos sumando todo eso y les decimos este es el problema que tiene su familiar, es una demencia de que tipo, con nombre y apellido."
+    },
+    {
+        "num":"25",
+        "profession": "PPs",
+        "institution": "IP",
+        "answer":"Hay formas generales de cómo se dan diagnósticos un poco difíciles a la familia, pero realmente no hay otra forma sino de ser suave y directo, entonces se comunica el diagnóstico, saber que entienden lo que significa demencia, explicar claramente lo que significa esos términos que se usan a nivel social como demencia senil, demencia de Alzheimer, simplemente demencia, tienen mucha confusión, a veces piensan que son cosas diferentes, entonces se le explica y se les aclara bien todas estas preguntas."
+    },
+    {
+        "num":"28",
+        "profession": "PPs",
+        "institution": "HCAM",
+        "answer": "Pues le indicamos el diagnóstico, el tratamiento, el pronóstico que puede tener el paciente, pero generalmente las personas que los acompañan a los pacientes ya conocen un poco, porque, ya se han dado cuenta, ya han llegado a mostrar signos y síntomas que les hacen pensar en la patología, las personas generalmente acuden al médico, cuando ya hay algo que llame la atención"
+    },
+    {
+        "num":"29",
+        "profession": "PPs",
+        "institution": "HAM",
+        "answer": "Se explica que la demencia es una enfermedad, no es algo que viene con la edad que es una creencia que tienen generalmente y lo asumen como algo normal; por lo tanto, es como que se desentienden con esa situación. Les explico que es una enfermedad que tiene factores que pueden provocar esto personas con diabetes, con hipertensión, factores de riesgo cardiovascular, la depresión también puede desencadenar algo como una demencia. Les explico que la persona es una persona ya dependiente y que va a seguir siendo dependiente y más dependiente en un futuro por lo tanto el acompañamiento es muy importante. Les explico el tratamiento, lo que puede pasar a futuro, el pronóstico y les explico todo el apoyo que pueden recibir aquí el médico, los talleres, como digo hospitalización si es necesario inclusive cuidados paliativos al final que tenemos también esa especialidad acá. Se les explica todo."
+    },
+    {
+        "num":"30",
+        "profession": "PPs",
+        "institution": "HJE",
+        "answer": "El informar al paciente dependiendo del grado que tenga para entender de que el paciente sabe que está olvidándose las cosas, pero pueda que ese deterioro como para entender que le pasa veces no le permite por momentos, de la lucidez que tenga de pronto nos entiende, pero luego no."
+    }
+]
+
+
+
+
+
