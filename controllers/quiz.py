@@ -1,18 +1,16 @@
+import nltk
+nltk.download('stopwords')
+from nltk.corpus import stopwords
 import re
 import numpy as np
 import json
 import math
-import nltk
 # import ntlk
 from config.db import  conn
 from schemas.sorter import sorterEntity,sortersEntity
-from nltk.corpus import stopwords
-# ntlk.download('stopwords')
-
 sw = stopwords.words('spanish')
-
 def lowercase():
-
+  
     db_sorter =  sortersEntity(conn.catia.sorter.find({}))
     data_A = []
     data_B = []
@@ -31,32 +29,47 @@ def lowercase():
     return data_A,data_B,data_C
 
 
+def normalize(s):
+    replacements = (
+        ("á", "a"),
+        ("é", "e"),
+        ("í", "i"),
+        ("ó", "o"),
+        ("ú", "u"),
+    )
+    for a, b in replacements:
+        s = s.replace(a, b).replace(a.upper(), b.upper())
+    return s
+    
 def metodo(frase):
+    sw = stopwords.words('spanish')
     copia = frase
-    #------- NLP --------
+    print('1')
+    print(frase)
     frase = frase.lower()
     frase = re.sub('[^A-Za-zñ]+', ' ', frase)
     frase = frase.split()
+    print('2')
+    print(frase)
     #STOPWORDS
-    for i in range(len(frase)):
-        for w in frase:
-            if w in sw:
-                #print(word)
-                frase.remove(w)
-    #print(frase)
+    for w in frase:
+        if w in sw:
+            #print(word)
+            frase.remove(w)
+    print('3')
+    print(frase)
     
     vpos,vneu,vneg = lowercase()
-
-    frase = token(frase,len(frase),[vpos,vneu,vneg])
+    # print(vpos,vneu,vneg)
+    frase = toke(frase,len(frase),[vpos,vneu,vneg])
+    print('4')
     print(frase)
-    # jaccard positivos neutro positivo
-    p = jaccard(frase,[vpos,vneu,vneg])
-    #coseno positivos neutro positivo
+    p= jaccard(frase,[vpos,vneu,vneg])
     cose = np.array([coseno([frase],vpos),coseno([frase],vneu),coseno([frase],vneg)])
     print("coseno:")
     print(cose)
     temp = 1 if  (cose == 0).all() else np.where(cose == np.max(cose))[0][0]
-    return json.dumps({'frase':copia,'jaccard':'MODELO BIO MEDICO' if p == 0 else ( 'ENFOQUE PSICOSOCIAL - COMUNITARIO' if p == 1  else 'ENFOQUE COTIDIANO'),'coseno': 'MODELO BIO MEDICO' if temp == 0 else ( 'ENFOQUE PSICOSOCIAL - COMUNITARIO' if temp == 1  else 'ENFOQUE COTIDIANO')})
+    return {'frase':copia,'jaccard':'MODELO BIO MEDICO' if p == 0 else ( 'ENFOQUE PSICOSOCIAL - COMUNITARIO' if p == 1  else 'ENFOQUE COTIDIANO'),'coseno': 'MODELO BIO MEDICO' if temp == 0 else ( 'ENFOQUE PSICOSOCIAL - COMUNITARIO' if temp == 1  else 'ENFOQUE COTIDIANO')}
 
 
 def jaccard(v1,v2):
@@ -144,13 +157,12 @@ def resM(h1,m):
         return round(h1/m,3)
 
 
-# 
 
-def token(conjunto,index,etiquetas):
+def toke(conjunto,index,etiquetas):
     if index == 0:
         return
     else:
-        print("INDEX: "+str(index))
+        # print("INDEX: "+str(index))
         inicio = 0
         fin = 0
         while fin < len(conjunto)-1:
@@ -160,10 +172,10 @@ def token(conjunto,index,etiquetas):
             pos = buscar(etiquetas,temp)
             if pos != -1: 
                 conjunto[inicio:fin+1] = [temp]
-            print("inicio: "+str(inicio)+ " fin: "+str(fin) + " palabras: "+temp+ " pos: "+str(pos))
+            # print("inicio: "+str(inicio)+ " fin: "+str(fin) + " palabras: "+temp+ " pos: "+str(pos))
             
             inicio += 1
-        token(conjunto,index-1,etiquetas)
+        toke(conjunto,index-1,etiquetas)
     return conjunto
         
 def buscar(etiquetas,temp):
@@ -184,3 +196,5 @@ def buscar(etiquetas,temp):
     except:
         pos = -1
     return pos
+
+
